@@ -1,2 +1,2 @@
 # Python-practice
-Python programs
+This repository contains python programs
